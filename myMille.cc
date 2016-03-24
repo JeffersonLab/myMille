@@ -2,7 +2,7 @@
 //
 // to build g++ -o myMille myMille.cc Mille.cc
 //
-// uses a single event.
+// uses a single event which is probably a bad idea.
 
 #include <fstream>
 #include <iostream>
